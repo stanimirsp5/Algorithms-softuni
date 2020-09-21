@@ -1,10 +1,17 @@
-﻿<Properties StartupConfiguration="{FBFCB403-9453-4274-9283-9B81CD1BE1E4}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{FBFCB403-9453-4274-9283-9B81CD1BE1E4}|Default">
   <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Recursion/GeneratingCombinations.cs" Line="12" Column="18" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="AlgorithmsSoftuni" expanded="True" selected="True">
-            <Node name="AlgorithmsSoftuni" expanded="True" />
+          <Node name="AlgorithmsSoftuni" expanded="True">
+            <Node name="AlgorithmsSoftuni" expanded="True">
+              <Node name="Recursion" expanded="True">
+                <Node name="GeneratingCombinations.cs" selected="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
