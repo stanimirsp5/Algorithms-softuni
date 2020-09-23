@@ -9,7 +9,9 @@ namespace AlgorithmsSoftuni
     {
         static void Main(string[] args)
         {
-            TowersOfHanoi.Solve();
+            int numberOfDisks = 3;//int.Parse(Console.ReadLine());
+            //source = new Stack<int>(Enumerable.Range(1, numberOfDisks).Reverse());
+            TowersOfHanoi.Solve(numberOfDisks);
         }
         //static void Main(string[] args)
         //{
@@ -93,3 +95,8 @@ namespace AlgorithmsSoftuni
 
     }
 }
+
+//https://softuni.bg/trainings/1907/algorithms-march-2018#lesson-8054
+//https://judge.softuni.bg/Contests/Practice/Index/688#3
+// https://softuni.bg/trainings/resources/officedocument/29869/exercise-problem-descriptions-recursion-algorithms-march-2018/1907
+//https://www.youtube.com/watch?v=vS-LA-LEzX0&feature=youtu.be&t=4

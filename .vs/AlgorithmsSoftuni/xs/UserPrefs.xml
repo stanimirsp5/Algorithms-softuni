@@ -1,7 +1,9 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{FBFCB403-9453-4274-9283-9B81CD1BE1E4}|Default">
   <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="Recursion/GeneratingCombinations.cs" Line="12" Column="18" />
+      <File FileName="Recursion/GeneratingCombinations.cs" Line="12" Column="14" />
+      <File FileName="Recursion/Exercise/TowersOfHanoi.cs" Line="58" Column="1" />
+      <File FileName="Program.cs" Line="85" Column="37" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -9,8 +11,10 @@
           <Node name="AlgorithmsSoftuni" expanded="True">
             <Node name="AlgorithmsSoftuni" expanded="True">
               <Node name="Recursion" expanded="True">
-                <Node name="GeneratingCombinations.cs" selected="True" />
+                <Node name="Backtracking" expanded="True" />
+                <Node name="Exercise" expanded="True" />
               </Node>
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

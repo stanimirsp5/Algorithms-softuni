@@ -9,7 +9,6 @@ namespace AlgorithmsSoftuni.Recursion
             if(vector.Length == index)
             {
                 Console.WriteLine(String.Join("", vector));
-                //2222test
             }
             else
             {
