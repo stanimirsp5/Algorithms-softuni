@@ -36,12 +36,14 @@ namespace AlgorithmsSoftuni.Recursion.Exercise
             else
             {
                 // 1) move all disks from bottomDisk - 1 from source to spare;
+                // Shift first disk from 'A' to 'B'.
                 MoveDisks(bottomDisk - 1, source, spare, destination);
                 stepsTaken++;
-                destination.Push(source.Pop());  // 2) move the bottomDisk from source to destination;
+                destination.Push(source.Pop());  // 2) move the bottomDisk from source to destination; Shift second disk from 'A' to 'C'.
                 Console.WriteLine($"Step #{stepsTaken}: Moved disk");
                 PrintRods();
                 // 3) move all disks previously moved to spare to destination.
+                //  Shift first disk from 'B' to 'C'.
                 MoveDisks(bottomDisk - 1, spare, destination, source);
             }
         }

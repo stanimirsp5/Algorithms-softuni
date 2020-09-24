@@ -10,3 +10,16 @@
 /Users/stanimir/Projects/Algorithms/AlgorithmsSoftuni/AlgorithmsSoftuni/obj/Debug/netcoreapp3.1/AlgorithmsSoftuni.dll
 /Users/stanimir/Projects/Algorithms/AlgorithmsSoftuni/AlgorithmsSoftuni/obj/Debug/netcoreapp3.1/AlgorithmsSoftuni.pdb
 /Users/stanimir/Projects/Algorithms/AlgorithmsSoftuni/AlgorithmsSoftuni/obj/Debug/netcoreapp3.1/AlgorithmsSoftuni.genruntimeconfig.cache
+C:\Users\stanimir.petrov\Documents\Exercises\Algorithms-softuni\bin\Debug\netcoreapp3.1\AlgorithmsSoftuni.exe
+C:\Users\stanimir.petrov\Documents\Exercises\Algorithms-softuni\bin\Debug\netcoreapp3.1\AlgorithmsSoftuni.deps.json
+C:\Users\stanimir.petrov\Documents\Exercises\Algorithms-softuni\bin\Debug\netcoreapp3.1\AlgorithmsSoftuni.runtimeconfig.json
+C:\Users\stanimir.petrov\Documents\Exercises\Algorithms-softuni\bin\Debug\netcoreapp3.1\AlgorithmsSoftuni.runtimeconfig.dev.json
+C:\Users\stanimir.petrov\Documents\Exercises\Algorithms-softuni\bin\Debug\netcoreapp3.1\AlgorithmsSoftuni.dll
+C:\Users\stanimir.petrov\Documents\Exercises\Algorithms-softuni\bin\Debug\netcoreapp3.1\AlgorithmsSoftuni.pdb
+C:\Users\stanimir.petrov\Documents\Exercises\Algorithms-softuni\obj\Debug\netcoreapp3.1\AlgorithmsSoftuni.csprojAssemblyReference.cache
+C:\Users\stanimir.petrov\Documents\Exercises\Algorithms-softuni\obj\Debug\netcoreapp3.1\AlgorithmsSoftuni.AssemblyInfoInputs.cache
+C:\Users\stanimir.petrov\Documents\Exercises\Algorithms-softuni\obj\Debug\netcoreapp3.1\AlgorithmsSoftuni.AssemblyInfo.cs
+C:\Users\stanimir.petrov\Documents\Exercises\Algorithms-softuni\obj\Debug\netcoreapp3.1\AlgorithmsSoftuni.csproj.CoreCompileInputs.cache
+C:\Users\stanimir.petrov\Documents\Exercises\Algorithms-softuni\obj\Debug\netcoreapp3.1\AlgorithmsSoftuni.dll
+C:\Users\stanimir.petrov\Documents\Exercises\Algorithms-softuni\obj\Debug\netcoreapp3.1\AlgorithmsSoftuni.pdb
+C:\Users\stanimir.petrov\Documents\Exercises\Algorithms-softuni\obj\Debug\netcoreapp3.1\AlgorithmsSoftuni.genruntimeconfig.cache
