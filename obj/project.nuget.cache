@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AJEwToD1TYiaPSybz+I74D2cZzu71a3GT/P7+4mdksLg/gl5PUky3JwHoVcukc480Bm8gf0pxg6JbGjIp5YS4g==",
+  "dgSpecHash": "nhPJt23/6F576tOqHrwYGwsN1Je/3xdE0dSqebUSemKFoclMXWK3NTXrOay/b8gq3OQSl1kC/oKRAZ9IP+yp3g==",
   "success": true,
   "projectFilePath": "C:\\Users\\stanimir.petrov\\Documents\\Exercises\\Algorithms-softuni\\AlgorithmsSoftuni.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\stanimir.petrov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
   "logs": []
 }
