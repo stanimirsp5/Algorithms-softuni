@@ -5,7 +5,7 @@ namespace AlgorithmsSoftuni.Search.Pathfinding.Graph
     {
         public Graph()
         {
-            Li
+            //Li
         }
     }
 }
