@@ -21,7 +21,7 @@ namespace AlgorithmsSoftuni.Recursion.Exercise
             MoveDisks(numDisks, sourceRod, destinationRod, spareRod);
         }
 
-        public static void MoveDisks(int bottomDisk, Stack<int> source, Stack<int> destination, Stack<int> spare)
+        public static void MoveDisks(int bottomDisk, Stack<int> source, Stack<int> destination, Stack<int> spare)// A,B,C
         {
 
             if (bottomDisk == 1)
@@ -37,14 +37,14 @@ namespace AlgorithmsSoftuni.Recursion.Exercise
             {
                 // 1) move all disks from bottomDisk - 1 from source to spare;
                 // Shift first disk from 'A' to 'B'.
-                MoveDisks(bottomDisk - 1, source, spare, destination);
+                MoveDisks(bottomDisk - 1, source, spare, destination);// A,C,B
                 stepsTaken++;
                 destination.Push(source.Pop());  // 2) move the bottomDisk from source to destination; Shift second disk from 'A' to 'C'.
                 Console.WriteLine($"Step #{stepsTaken}: Moved disk");
                 PrintRods();
                 // 3) move all disks previously moved to spare to destination.
                 //  Shift first disk from 'B' to 'C'.
-                MoveDisks(bottomDisk - 1, spare, destination, source);
+                MoveDisks(bottomDisk - 1, spare, destination, source);// C,B,A
             }
         }
 
@@ -57,3 +57,5 @@ namespace AlgorithmsSoftuni.Recursion.Exercise
         }
     }
 }
+
+//Error MSB4018: The "ResolvePackageAssets" task failed unexpectedly

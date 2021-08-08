@@ -9,5 +9,8 @@
     <Folder Include="Recursion\" />
     <Folder Include="Recursion\Backtracking\" />
     <Folder Include="Recursion\Exercise\" />
+    <Folder Include="Search\" />
+    <Folder Include="Search\Pathfinding\" />
+    <Folder Include="Search\Pathfinding\Graph\" />
   </ItemGroup>
 </Project>
