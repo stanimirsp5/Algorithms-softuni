@@ -1,8 +1,8 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{FBFCB403-9453-4274-9283-9B81CD1BE1E4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Search/Pathfinding/Graph/Graph.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="Recursion/RecursiveDrawing.cs" Line="1" Column="1" />
-      <File FileName="Search/Pathfinding/Graph/Graph.cs" Line="8" Column="17" />
+      <File FileName="Search/Pathfinding/Graph/Graph.cs" Line="12" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
