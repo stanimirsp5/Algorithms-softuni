@@ -9,8 +9,19 @@
     <Folder Include="Recursion\" />
     <Folder Include="Recursion\Backtracking\" />
     <Folder Include="Recursion\Exercise\" />
-    <Folder Include="Search\" />
-    <Folder Include="Search\Pathfinding\" />
     <Folder Include="Search\Pathfinding\Graph\" />
+    <Folder Include="JavaBook\" />
+    <Folder Include="HackerRank\" />
+    <Folder Include="Greedy\" />
+    <Folder Include="DesignPatterns\" />
+    <Folder Include="DesignPatterns\Singleton\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Search\Pathfinding\Graph\" />
+    <None Remove="Immutable types\" />
+    <None Remove="HackerRank\" />
+    <None Remove="Greedy\" />
+    <None Remove="DesignPatterns\" />
+    <None Remove="DesignPatterns\Singleton\" />
   </ItemGroup>
 </Project>

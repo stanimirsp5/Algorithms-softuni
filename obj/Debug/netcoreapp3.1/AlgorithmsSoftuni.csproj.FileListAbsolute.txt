@@ -28,10 +28,11 @@ C:/Users/stanimir.petrov/Documents/Exercises/Algorithms-softuni/obj/Debug/netcor
 /Users/stanimir/Projects/AlgorithmsSoftuni/bin/Debug/netcoreapp3.1/AlgorithmsSoftuni.runtimeconfig.dev.json
 /Users/stanimir/Projects/AlgorithmsSoftuni/bin/Debug/netcoreapp3.1/AlgorithmsSoftuni.dll
 /Users/stanimir/Projects/AlgorithmsSoftuni/bin/Debug/netcoreapp3.1/AlgorithmsSoftuni.pdb
-/Users/stanimir/Projects/AlgorithmsSoftuni/obj/Debug/netcoreapp3.1/AlgorithmsSoftuni.csprojAssemblyReference.cache
 /Users/stanimir/Projects/AlgorithmsSoftuni/obj/Debug/netcoreapp3.1/AlgorithmsSoftuni.AssemblyInfoInputs.cache
 /Users/stanimir/Projects/AlgorithmsSoftuni/obj/Debug/netcoreapp3.1/AlgorithmsSoftuni.AssemblyInfo.cs
 /Users/stanimir/Projects/AlgorithmsSoftuni/obj/Debug/netcoreapp3.1/AlgorithmsSoftuni.csproj.CoreCompileInputs.cache
 /Users/stanimir/Projects/AlgorithmsSoftuni/obj/Debug/netcoreapp3.1/AlgorithmsSoftuni.dll
 /Users/stanimir/Projects/AlgorithmsSoftuni/obj/Debug/netcoreapp3.1/AlgorithmsSoftuni.pdb
 /Users/stanimir/Projects/AlgorithmsSoftuni/obj/Debug/netcoreapp3.1/AlgorithmsSoftuni.genruntimeconfig.cache
+/Users/stanimir/Projects/AlgorithmsSoftuni/obj/Debug/netcoreapp3.1/AlgorithmsSoftuni.csproj.AssemblyReference.cache
+/Users/stanimir/Projects/AlgorithmsSoftuni/obj/Debug/netcoreapp3.1/AlgorithmsSoftuni.GeneratedMSBuildEditorConfig.editorconfig

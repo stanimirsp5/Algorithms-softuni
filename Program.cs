@@ -2,27 +2,30 @@
 using AlgorithmsSoftuni.Recursion;
 using AlgorithmsSoftuni.Recursion.Backtracking;
 using AlgorithmsSoftuni.Recursion.Exercise;
+using AlgorithmsSoftuni.Search.Pathfinding.Graph;
 
 namespace AlgorithmsSoftuni
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            int numberOfDisks = 3;//int.Parse(Console.ReadLine());
-            //source = new Stack<int>(Enumerable.Range(1, numberOfDisks).Reverse());
-            //TowersOfHanoi.Solve(numberOfDisks);
-            Graph g = new Graph(5);
-            g.AddEdge(0, 1);
-            g.AddEdge(1, 2);
-            g.AddEdge(1, 3);
-            g.AddEdge(2, 1);
-            g.AddEdge(2, 3);
-            g.AddEdge(3, 1);
-            g.AddEdge(3, 2);
+        //static void Main(string[] args)
+        //{
+        //    int numberOfDisks = 3;//int.Parse(Console.ReadLine());
+        //    //source = new Stack<int>(Enumerable.Range(1, numberOfDisks).Reverse());
+        //    //TowersOfHanoi.Solve(numberOfDisks);
+        //    //Graph g = new Graph(5);
+        //    //g.AddEdge(0, 1);
+        //    //g.AddEdge(1, 2);
+        //    //g.AddEdge(1, 3);
+        //    //g.AddEdge(2, 1);
+        //    //g.AddEdge(2, 3);
+        //    //g.AddEdge(3, 1);
+        //    //g.AddEdge(3, 2);
 
-            g.PrintGraph();
-        }
+        //    //g.PrintGraph();
+
+        //    //GraphFromMatrix graphFromMatrix = new GraphFromMatrix();
+        //}
         //static void Main(string[] args)
         //{
         //    int n = 5;// Int32.Parse(Console.ReadLine());

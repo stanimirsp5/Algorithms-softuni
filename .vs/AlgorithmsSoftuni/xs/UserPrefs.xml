@@ -1,20 +1,25 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{FBFCB403-9453-4274-9283-9B81CD1BE1E4}|Default">
   <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="Recursion/RecursiveDrawing.cs" Line="1" Column="1" />
-      <File FileName="Search/Pathfinding/Graph/Graph.cs" Line="12" Column="1" />
+      <File FileName="HackerRank/CeaserCipher.cs" Line="20" Column="1" />
+      <File FileName="HackerRank/RecursiveDigitSum.cs" Line="12" Column="12" />
+      <File FileName="HackerRank/NewYearChaos.cs" Line="17" Column="52" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="AlgorithmsSoftuni" expanded="True">
             <Node name="AlgorithmsSoftuni" expanded="True">
-              <Node name="Recursion" expanded="True" />
+              <Node name="DesignPatterns" expanded="True">
+                <Node name="Singleton" expanded="True" />
+              </Node>
+              <Node name="Greedy" expanded="True" />
+              <Node name="HackerRank" expanded="True">
+                <Node name="NewYearChaos.cs" selected="True" />
+              </Node>
               <Node name="Search" expanded="True">
                 <Node name="Pathfinding" expanded="True">
-                  <Node name="Graph" expanded="True">
-                    <Node name="Graph.cs" selected="True" />
-                  </Node>
+                  <Node name="Graph" expanded="True" />
                 </Node>
               </Node>
             </Node>
@@ -29,6 +34,9 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/stanimir/Projects/AlgorithmsSoftuni/Recursion/Exercise/TowersOfHanoi.cs" relfile="Recursion/Exercise/TowersOfHanoi.cs" line="27" column="1" />
+      <Breakpoint file="/Users/stanimir/Projects/AlgorithmsSoftuni/Program.cs" relfile="Program.cs" line="13" column="1" />
+      <Breakpoint file="/Users/stanimir/Projects/AlgorithmsSoftuni/HackerRank/MockTest2.cs" relfile="HackerRank/MockTest2.cs" line="92" column="1" />
+      <Breakpoint file="/Users/stanimir/Projects/AlgorithmsSoftuni/HackerRank/MockTest2.cs" relfile="HackerRank/MockTest2.cs" line="51" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
